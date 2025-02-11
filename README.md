@@ -23,4 +23,4 @@ Figura 2
 ![image](https://github.com/user-attachments/assets/587233f4-7000-4fc2-95a2-ba52f482a701)
 fonte: embarcatech, 2024.
 
-Na figura 2 consta o metodo no qual o calculo foi baseado.
+Na figura 2 consta o método no qual o cálculo foi baseado.
