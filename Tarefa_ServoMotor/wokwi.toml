@@ -1,0 +1,7 @@
+[wokwi]
+version = 1
+firmware = 'build/Tarefa_ServoMotor.uf2'
+elf = 'build/Tarefa_ServoMotor.elf'
+
+[[uart]]
+baud = 115200
