@@ -9,10 +9,13 @@ Ao iniciar a simulação o flange do motor se encontra na posição 180°, com d
 Completado o ciclo inicial o motor começa a ocilar sua posição entre 0° e 180° através da alteração do duty cycle a uma taxa de 5 microssegundos.  
 Sempre que o flange passa pelas posições 0°, 90° e 180° é impressa uma mensagem referente a posição.
 
+Link para o video no google drive: https://drive.google.com/file/d/1VZfU5XF7Bm8WrUSc9Dzu7e3aCufltj6G/view?usp=sharing
+
 Figura 1  
 
 
 ![image](https://github.com/user-attachments/assets/fb994ed4-979b-43c2-8d21-79d7a11e2edf)
+
 Fonte: autor.
 
 Na figura 1, consta o método usado para encontrar um divisor inteiro aproximado. 
@@ -21,6 +24,7 @@ Figura 2
 
 
 ![image](https://github.com/user-attachments/assets/587233f4-7000-4fc2-95a2-ba52f482a701)
-fonte: embarcatech, 2024.
+
+Fonte: embarcatech, 2024.
 
 Na figura 2 consta o método no qual o cálculo foi baseado.
